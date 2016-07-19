@@ -4,7 +4,13 @@
     "repositoryName": "spikebachman.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Randy Butternubs",
+    "description": "Explorations in Anarchism",
+    "logo": "cat"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
