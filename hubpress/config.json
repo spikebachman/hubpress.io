@@ -9,7 +9,10 @@
     "description": "Explorations in Anarchism",
     "logo": "cat"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "@spikebachman",
+    "github": "spikebachman"
+  },
   "theme": {
     "name": "casper"
   }
