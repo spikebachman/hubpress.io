@@ -11,8 +11,9 @@
     "postsPerPage": "9"
   },
   "socialnetwork": {
-    "twitter": "@spikebachman",
-    "github": "spikebachman"
+    "twitter": "https://twitter.com/spikebachman",
+    "linkedin": "https://www.linkedin.com/in/spikebachman",
+    "github": "https://github.com/spikebachman?tab=activity"
   },
   "theme": {
     "name": "saga"
