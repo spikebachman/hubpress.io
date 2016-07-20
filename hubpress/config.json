@@ -7,7 +7,8 @@
   "site": {
     "title": "Randy Butternubs",
     "description": "Explorations in Anarchism",
-    "logo": "cat"
+    "logo": "https://secure.gravatar.com/avatar/5f14d0536cf07e8bc878ed2aacf806d5",
+    "postsPerPage": "9"
   },
   "socialnetwork": {
     "twitter": "@spikebachman",
