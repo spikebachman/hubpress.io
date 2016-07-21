@@ -1,6 +1,7 @@
 = An index of AsciiDoc syntax
 
 Ref http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+and http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
 Note: HubPress uses the **AsciiDoc** markup — not to be confused with **AsciiDoctor**.
 
