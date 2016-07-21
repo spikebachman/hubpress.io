@@ -4,6 +4,10 @@ Ref http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
 Note: HubPress uses the **AsciiDoc** markup — not to be confused with **AsciiDoctor**.
 
+NOTE: As of 7/20/06, the ghostium theme seems to be the only theme that is  rendering the AsciiDoc syntax in the same way as the quick reference guide.
+
+***
+
 ##### Admonitions
 
 NOTE: An admonition paragraph draws the reader's attention to
