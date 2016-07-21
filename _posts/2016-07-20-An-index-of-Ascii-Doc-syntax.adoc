@@ -8,6 +8,13 @@ NOTE: As of 7/20/06, the ghostium theme seems to be the only theme that is  rend
 
 ***
 
+Is anything else working here?
+
+OK, things seem to better after a hard restart. Let's try this again.
+
+***
+
+
 
 
 
